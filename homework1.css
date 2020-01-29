@@ -1,0 +1,44 @@
+.main {
+    width: 50%;
+    margin: 10px auto;
+    border: 10px solid grey;
+    text-align: center;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h1, p, a {
+    margin-bottom: 30px;
+}
+
+a, p {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.sns {
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.twitter {
+    background-color: #4DF9B9;
+}
+
+.facebook {
+    background-color: #0033FF;
+}
+
+.gmail {
+    background-color: #FF4F02;
+}
+
+img {
+    width: 90%;
+}
+a {
+    margin-bottom: 10px;
+}
