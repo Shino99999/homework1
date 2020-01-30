@@ -25,15 +25,15 @@ a, p {
 }
 
 .twitter {
-    background-color: #4DF9B9;
+    background-color: rgba(0, 172, 237, 1);
 }
 
 .facebook {
-    background-color: #0033FF;
+    background-color: rgba(30, 50, 97, 1);
 }
 
 .gmail {
-    background-color: #FF4F02;
+    background-color: rgba(219, 74, 57, 1);
 }
 
 img {
